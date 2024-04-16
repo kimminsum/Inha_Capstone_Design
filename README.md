@@ -1,6 +1,6 @@
 # Inha Capstone Design
 
-인하대학교 2023년 종합설계대회 3등 소프트웨어 부문
+인하대학교 2023년 종합설계대회 은상(3위) 수상작
 
 ### This project's subject is "No double boarding".
 
