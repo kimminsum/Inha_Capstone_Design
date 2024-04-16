@@ -1,6 +1,6 @@
-# futaritojokinshi
+# Inha Capstone Design
 
-git push https://github.com/kimminsum/futaritojokinshi.git
+인하대학교 2023년 종합설계대회 3등 소프트웨어 부문
 
 ### This project's subject is "No double boarding".
 
